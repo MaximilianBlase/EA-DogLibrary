@@ -30,6 +30,18 @@
 /*******************************************************************************
  * symbols
  ******************************************************************************/
+extern const imageData_t symbol_abort;
+extern const imageData_t symbol_back;
+extern const imageData_t symbol_diskette;
+extern const imageData_t symbol_diskette_write;
+extern const imageData_t symbol_diskette_read;
+extern const imageData_t symbol_dummy;
+extern const imageData_t symbol_home;
+extern const imageData_t symbol_menu;
+extern const imageData_t symbol_ok;
+extern const imageData_t symbol_standby;
+extern const imageData_t symbol_usbstick;
+extern const imageData_t symbol_reset;
 
 /*******************************************************************************
  * fonts chars
