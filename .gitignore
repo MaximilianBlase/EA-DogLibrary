@@ -1,0 +1,7 @@
+# Temporary maxOS files
+*.DS_Store
+
+# c files
+bin/
+.idea/
+cmake-*/
